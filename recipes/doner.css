@@ -1,0 +1,43 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color:blanchedalmond;
+}
+
+
+h1 {
+    font-size: 40px;
+    max-width: 738px;
+    
+}
+
+
+ul,ol {
+    padding-left: 1%;
+    max-width: 715px;
+    word-wrap: break-word;
+    text-align: justify;
+    font-size: 20px;
+    padding-left: 1em;
+    list-style-type:square;
+    
+li {
+    padding: 2px;
+    
+}
+
+}
+#doner-header{
+    font-size: 60px;
+    color: brown;
+}
+
+p {
+    max-width: 730px;
+    word-wrap: break-word;
+    text-align: justify; 
+    font-size: 23px;
+}
+
